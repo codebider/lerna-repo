@@ -1,0 +1,7 @@
+{
+  "name": "@daniel/errors",
+  "private": true,
+  "publishConfig": {
+    "registry": "http://localhost:8081/repository/npm-private/"
+  }
+}
