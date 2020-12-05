@@ -1,6 +1,6 @@
 {
   "name": "@libs/errors",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "main": "index.js",
   "license": "Daniel",
   "gitHead": "9d337e8181b724df2bf441033db9030da891da4e"
