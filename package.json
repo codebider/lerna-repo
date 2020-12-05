@@ -17,6 +17,6 @@
   },
   "scripts": {
     "version": "lerna version --ignore-changes '**/*.md' '**/__tests__/**'",
-    "go": "lerna run lint && lerna run test && lerna run build && lerna publish from-git"
+    "go": "lerna run lint && lerna run test && lerna run build && lerna publish"
   }
 }
