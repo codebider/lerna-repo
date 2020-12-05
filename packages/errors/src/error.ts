@@ -3,5 +3,5 @@ export interface AppError {
 }
 
 export const error: AppError = {
-    a: "Demo1"
-}
+    a: 'Demo1'
+};
