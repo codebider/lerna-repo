@@ -1,5 +1,6 @@
 {
-  "name": "@daniel/errors",
+  "name": "libs-errors",
   "version": "0.0.5",
-  "main": "index.js"
+  "main": "index.js",
+  "license": "Daniel"
 }
