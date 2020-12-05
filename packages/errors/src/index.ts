@@ -1,3 +1,5 @@
+import { AppError } from "./types";
+
 const error: AppError = {
     a: "Demo1"
 }
