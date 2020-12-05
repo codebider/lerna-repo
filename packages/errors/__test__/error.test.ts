@@ -2,6 +2,6 @@ import { error } from '../src';
 
 describe('Test error', () => {
     it('should return error', () => {
-        expect(error).toEqual({'a': 'Demo3'});
+        expect(error).toEqual({'a': 'Demo4'});
     });
 });
