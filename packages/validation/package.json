@@ -4,6 +4,9 @@
   "author": "Daniel",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
+  "dependencies": {
+    "@libs/errors": "0.0.17"
+  },
   "scripts": {
     "build": "tsc",
     "lint": "eslint ./src/**/*.ts --fix",

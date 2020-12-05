@@ -1,3 +1,5 @@
+import { error as demo } from '@libs/errors';
+console.log(demo);
 export interface AppError {
     a: string
 }
