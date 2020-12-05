@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "dependencies": {
-    "@libs/errors": "0.0.17"
+    "@libs/errors": "0.0.16"
   },
   "scripts": {
     "build": "tsc",
