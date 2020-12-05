@@ -7,7 +7,8 @@
   "scripts": {
     "build": "tsc",
     "lint": "eslint ./src/**/*.ts --fix",
-    "test": "jest --verbose"
+    "test": "jest --verbose",
+    "coverage": "jest --coverage"
   },
   "directories": {
     "lib": "lib",
