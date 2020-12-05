@@ -1,6 +1,6 @@
 {
   "name": "@libs/validation",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "Daniel",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
