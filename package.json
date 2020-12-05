@@ -16,6 +16,7 @@
     "registry": "http://localhost:8081/repository/npm-private/"
   },
   "scripts": {
+    "version": "lerna version --ignore-changes '**/*.md' '**/__tests__/**'",
     "go": "lerna run lint && lerna run test && lerna run build && lerna publish from-git"
   }
 }
