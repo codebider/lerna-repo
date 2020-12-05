@@ -7,6 +7,6 @@
     "@types/node": "^14.14.10"
   },
   "scripts": {
-    "publish": "lerna run tsc && lerna publish"
+    "pub": "lerna run tsc && lerna publish"
   }
 }
