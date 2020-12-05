@@ -1,5 +1,5 @@
 const error: AppError = {
-    a: "Demo"
+    a: "Demo1"
 }
 
 export default error;
