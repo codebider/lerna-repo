@@ -10,6 +10,6 @@
     "registry": "http://localhost:8081/repository/npm-private/"
   },
   "scripts": {
-    "pub": "lerna run tsc && lerna publish"
+    "pub": "lerna run build && lerna publish"
   }
 }

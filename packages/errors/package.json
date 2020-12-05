@@ -3,9 +3,9 @@
   "version": "0.0.12",
   "author": "Daniel",
   "main": "lib/index.js",
-  "typings": "lib/types.d.ts",
+  "typings": "lib/index.d.ts",
   "scripts": {
-    "tsc": "tsc"
+    "build": "tsc"
   },
   "directories": {
     "lib": "lib",
