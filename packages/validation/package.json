@@ -1,5 +1,5 @@
 {
-  "name": "@libs/assert",
+  "name": "@libs/validation",
   "version": "0.0.1",
   "author": "Daniel",
   "main": "lib/index.js",
