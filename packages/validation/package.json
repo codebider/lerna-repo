@@ -1,11 +1,11 @@
 {
   "name": "@libs/validation",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Daniel",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "dependencies": {
-    "@libs/errors": "0.0.16"
+    "@libs/errors": "^0.0.17"
   },
   "scripts": {
     "build": "tsc",
