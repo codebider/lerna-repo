@@ -1,6 +1,6 @@
 {
   "name": "@libs/errors",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "author": "Daniel",
   "main": "lib/index.js",
   "typings": "lib/types.d.ts",
