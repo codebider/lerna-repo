@@ -1,0 +1,21 @@
+{
+  "name": "@libs/assert",
+  "version": "0.0.19",
+  "author": "Daniel",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint ./src/**/*.ts --fix",
+    "test": "jest --verbose",
+    "coverage": "jest --coverage"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__test__"
+  },
+  "files": [
+    "lib"
+  ],
+  "license": "Daniel"
+}
