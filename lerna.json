@@ -2,7 +2,7 @@
   "packages": [
     "packages/*"
   ],
-  "version": "0.0.10",
+  "version": "0.0.11",
   "publishConfig": {
     "registry": "http://localhost:8081/repository/npm-private/"
   }
