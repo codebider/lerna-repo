@@ -3,7 +3,11 @@
     "packages/*"
   ],
   "version": "independent",
-  "publishConfig": {
-    "registry": "http://localhost:8081/repository/npm-private/"
+  "command": {
+    "publish": {
+      "ignoreChanges": ["*.md"],
+      "message": "chore(release): publish",
+      "registry": "http://localhost:8081/repository/npm-private/"
+    }
   }
 }

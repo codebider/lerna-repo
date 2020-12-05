@@ -2,3 +2,4 @@ nexus-data
 node_modules
 demo
 .idea/
+lerna-debug.log
